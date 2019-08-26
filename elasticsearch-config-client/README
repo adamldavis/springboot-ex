@@ -1,0 +1,5 @@
+Demos Spring Boot with Elastic Search using Spring Data.
+
+Use "docker-compose up" to start up a two node Elastic Search cluster.
+Then use "./gradlew bootRun" to start the app.
+

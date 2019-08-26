@@ -1,0 +1,4 @@
+Demos a Spring Boot web service using Spring Data JPA with Hibernate and H2.
+
+Also uses com.palantir.docker Gradle plugin.
+
